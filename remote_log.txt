@@ -1,35 +1,35 @@
-Living Room TV | Power | success | 2026-07-20 16:15:37.799570
- Living Room TV | Volume | success | 2026-07-20 16:15:37.800580
- Living Room TV | Volume | success | 2026-07-20 16:15:37.800580
- Living Room TV | Volume | success | 2026-07-20 16:15:37.800580
- Living Room TV | Volume | success | 2026-07-20 16:15:37.800580
- Living Room TV | Volume | success | 2026-07-20 16:15:37.801745
- Living Room TV | Volume | success | 2026-07-20 16:15:37.801745
- Living Room TV | Mute | success | 2026-07-20 16:15:37.801745
- Living Room TV | Mute | success | 2026-07-20 16:15:37.803212
- Living Room TV | Mute | success | 2026-07-20 16:15:37.803212
- Living Room TV | Power | success | 2026-07-20 16:15:37.803212
- Living Room TV | Power | success | 2026-07-20 16:15:37.804408
- Hall | Power | success | 2026-07-20 16:15:37.804408
- Hall | Volume | success | 2026-07-20 16:15:37.804408
- Hall | Volume | success | 2026-07-20 16:15:37.804408
- Hall | Volume | success | 2026-07-20 16:15:37.805746
- Hall | Volume | success | 2026-07-20 16:15:37.805746
- Hall | Volume | success | 2026-07-20 16:15:37.805746
- Hall | Volume | success | 2026-07-20 16:15:37.806752
- Hall | Power | success | 2026-07-20 16:15:37.806752
- Hall | Power | success | 2026-07-20 16:15:37.806752
- Music Room | Power | success | 2026-07-20 16:15:37.807817
- Music Room | Volume | success | 2026-07-20 16:15:37.807817
- Music Room | Volume | success | 2026-07-20 16:15:37.807817
- Music Room | Volume | success | 2026-07-20 16:15:37.807817
- Music Room | Volume | success | 2026-07-20 16:15:37.808846
- Music Room | Volume | success | 2026-07-20 16:15:37.808846
- Music Room | Volume | success | 2026-07-20 16:15:37.808846
- Music Room | Mute | success | 2026-07-20 16:15:37.809865
- Music Room | Mute | success | 2026-07-20 16:15:37.809865
- Music Room | Mute | success | 2026-07-20 16:15:37.809865
- Music Room | Power | success | 2026-07-20 16:15:37.811199
- Music Room | Power | success | 2026-07-20 16:15:37.811199
- Music Room | Test_action | success | 2026-07-20 16:15:37.811199
+Living Room TV | Power | success | 2026-07-20 16:34:54.596059
+ Living Room TV | Volume | success | 2026-07-20 16:34:54.597240
+ Living Room TV | Volume | success | 2026-07-20 16:34:54.597240
+ Living Room TV | Volume | success | 2026-07-20 16:34:54.597240
+ Living Room TV | Volume | success | 2026-07-20 16:34:54.598408
+ Living Room TV | Volume | success | 2026-07-20 16:34:54.598408
+ Living Room TV | Volume | success | 2026-07-20 16:34:54.598408
+ Living Room TV | Mute | success | 2026-07-20 16:34:54.598408
+ Living Room TV | Mute | success | 2026-07-20 16:34:54.598408
+ Living Room TV | Mute | success | 2026-07-20 16:34:54.599850
+ Living Room TV | Power | success | 2026-07-20 16:34:54.599850
+ Living Room TV | Power | success | 2026-07-20 16:34:54.599850
+ Hall | Power | success | 2026-07-20 16:34:54.600920
+ Hall | Volume | success | 2026-07-20 16:34:54.600920
+ Hall | Volume | success | 2026-07-20 16:34:54.600920
+ Hall | Volume | success | 2026-07-20 16:34:54.600920
+ Hall | Volume | success | 2026-07-20 16:34:54.602182
+ Hall | Volume | success | 2026-07-20 16:34:54.602182
+ Hall | Volume | success | 2026-07-20 16:34:54.602182
+ Hall | Power | success | 2026-07-20 16:34:54.602182
+ Hall | Power | success | 2026-07-20 16:34:54.603576
+ Music Room | Power | success | 2026-07-20 16:34:54.603576
+ Music Room | Volume | success | 2026-07-20 16:34:54.603576
+ Music Room | Volume | success | 2026-07-20 16:34:54.603576
+ Music Room | Volume | success | 2026-07-20 16:34:54.604596
+ Music Room | Volume | success | 2026-07-20 16:34:54.604596
+ Music Room | Volume | success | 2026-07-20 16:34:54.604596
+ Music Room | Volume | success | 2026-07-20 16:34:54.604596
+ Music Room | Mute | success | 2026-07-20 16:34:54.605872
+ Music Room | Mute | success | 2026-07-20 16:34:54.605872
+ Music Room | Mute | success | 2026-07-20 16:34:54.605872
+ Music Room | Power | success | 2026-07-20 16:34:54.605872
+ Music Room | Power | success | 2026-07-20 16:34:54.605872
+ Music Room | Test_action | success | 2026-07-20 16:34:54.607376
  
