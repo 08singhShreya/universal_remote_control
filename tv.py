@@ -6,6 +6,9 @@ class TV(AudioDevice):
         self.__volume = 10
         self.__channel = 1   
 
+    def get_volume(self):
+        return self.__volume    
+
     def increase(self):
         if self.is_muted():
             self.unmute()

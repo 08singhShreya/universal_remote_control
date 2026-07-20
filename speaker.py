@@ -5,6 +5,9 @@ class Speaker(AudioDevice):
         super().__init__(name, brand)
         self.__volume = 10
 
+    def get_volume(self):
+        return self.__volume
+
     def increase(self):
         if self.is_muted() :
             self.unmute()
