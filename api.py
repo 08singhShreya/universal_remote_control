@@ -16,6 +16,11 @@ tv = TV("Living Room TV", "Sony")
 ac = AC("Drawing Room", "Blue Star")
 speaker = Speaker("Music Room", "Boat")
 
+class CreateDeviceRequest(BaseModel):
+    device_type: str
+    name: str
+    brand: str
+
 devices = {
     "tv": Remote(tv),
     "ac": Remote(ac),
@@ -25,6 +30,21 @@ devices = {
 @app.get("/")
 def read_root():
     return {"message" : "Universal remote api is running"}
+
+@app.post("/devices")
+def create_device(request: CreateDeviceRequest):
+    if request.device_type == "tv":
+        new_device = TV(request.name, request.brand)
+    elif request.device_type == "ac":
+        new_device = AC(request.name, request.brand)
+    elif request.device_type == "speaker":
+        new_device = Speaker(request.name, request.brand)
+    else:
+        return {"error": f"Unknown Device Type: {request.device_type}"}
+
+    remote = Remote(new_device)
+    devices[new_device.name] = remote
+    return {"message": f"{new_device.name} created successfully", "device_id": new_device.name}
 
 @app.post("/power")
 def power(request: DeviceRequest):
